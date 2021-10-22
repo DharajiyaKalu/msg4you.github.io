@@ -642,13 +642,13 @@ var x = setInterval(function() {
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155211370-11"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123456789-00"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-155211370-11');
+  gtag('config', 'UA-123456789-00');
 </script>
 </body>
 </html>
